@@ -8,6 +8,7 @@
 }
 body{
 	overflow: hidden;
+	background:#f1f1f1;
 
 }
 section{
@@ -112,6 +113,6 @@ section i:nth-child(even){
 	}
 	section .box .circle h2{
 	
-	font-size: 1.2em;
+	font-size: 1em;
 		}
 }
